@@ -1,0 +1,1 @@
+This page provides guidance for developers of the _Invest or Defend_ client. For end user (i.e., player) guidance, see the [End User Guide](end-user-guide). For end users of the game server (i.e., game admins), see the server-side [End User Guide](https://delta.lancs.ac.uk/secure-digitalisation/invest-or-defend/server/wikis/end-user-guide).
